@@ -1,1 +1,1 @@
-#Algorítmos desenvolvidos em VisualG
+Algorítmos desenvolvidos em VisualG
